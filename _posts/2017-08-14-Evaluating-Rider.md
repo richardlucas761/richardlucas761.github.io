@@ -24,9 +24,15 @@ Admittedly, the Visual Studio RESX file editor is pretty crude but it's better t
 
 Despite these minor issues it works fine with a fairly hefty solution, I'll see how it works out over the 30 days evaluation period.
 
+## It's free for Open Source development
+
+I hadn't spotted this previously but Rider is free for (qualifying) Open Source software development.
+
 **Links**
 
 <https://www.jetbrains.com/rider/>
+
+<https://www.jetbrains.com/buy/opensource/?product=rider>
 
 <https://stackoverflow.com/questions/2967176/where-is-svn-exe-in-my-machine>
 
