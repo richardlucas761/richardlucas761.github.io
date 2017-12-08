@@ -1,7 +1,5 @@
 [Dot Net Notts 27 Nov](https://www.meetup.com/dotnetnotts/events/242325991/)
 
-# Automated testing for developers (using Selenium)
-
 John Staveley [@johnstaveley](https://twitter.com/johnstaveley)
 
 > Message queuing is becoming an essential part of modern architectures and essential for asynchronous architectures and microservices. In this session will be described the benefits of messaging systems, the software solutions that are available and typical messaging architectures. Examples will be made using Azure Storage Queues, Azure Service Bus and RabbitMQ. This talk is primarily about messaging, however as this session is for tech hipsters, the demos will be done giving an extensive introduction to Azure functions, Azure Resource Manager Templates, .Net Core and Docker.
