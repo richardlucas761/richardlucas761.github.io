@@ -1,7 +1,5 @@
 # [Tech Nottingham October 2018: APIness & Accessibility](https://www.meetup.com/Tech-Nottingham/events/254754472/)
 
-## 
-
 ## Life, Liberty And The Pursuit Of APIness: The Secret To Happy Code by Dylan Beattie
 
 > We spend our lives working with systems created by other people. From the UI on our phones to the cloud infrastructure that runs so much of the modern internet, these interactions are fundamental to our experience of technology - as engineers, as developers, as users - and user experiences are viral. Great user experiences lead to happy, productive people; bad experiences lead to frustration, inefficiency and misery.
