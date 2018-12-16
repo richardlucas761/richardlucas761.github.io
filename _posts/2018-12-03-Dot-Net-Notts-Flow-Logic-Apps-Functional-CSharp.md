@@ -1,5 +1,3 @@
-# Dot-Net-Notts-Flow-Logic-Apps-Functional-C#
-
 [Flow & Logic Apps - Steve Spencer / Functional C# - Simon Painter](https://www.meetup.com/dotnetnotts/events/255664276/)
 
 ## Easy integration with Flow and Logic Apps - Steve Spencer
