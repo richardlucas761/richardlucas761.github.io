@@ -1,6 +1,6 @@
 [Flow & Logic Apps - Steve Spencer / Functional C# - Simon Painter](https://www.meetup.com/dotnetnotts/events/255664276/)
 
-## Easy integration with Flow and Logic Apps - Steve Spencer
+# Easy integration with Flow and Logic Apps - Steve Spencer
 
 > Historically integrating different systems has been challenging and you have needed experts to help you build even the simplest integration. Microsoft has introduced its Azure based offerings to help take some of the complexity out of integrating to allow you to build your own personal workflows. This talk will introduce both Flow and Logic apps, show you where to use each and how you can migrate from Flow to Logic Apps.
 
@@ -16,7 +16,7 @@ Steve gave examples of integrations they had created to turn Excel documents int
 
 A suggested work flow was to create a Flow system as a proof of concept and then export this into a Logic App, pushing it to an existing CI/CD system and being subject to source control. It seemed a little manual but definitely better than having an undocumented and uncontrolled Excel spreadsheet which carries out an integration on a server the IT department only find out about when someone goes on holiday and it breaks.
 
-## Functional C# - Simon Painter
+# Functional C# - Simon Painter
 
 > So you want to get started, putting together Functional code, but you don't have time for the learning curve that comes with F# or Haskell? Or maybe you're fine with them, but the rest of the team isn't ready to follow yet. Whatever the case may be, it's perfectly possible to implement a lot of the amazing features of Functional programming in C#, without the need for any new dependencies, or even any especially complicated code.
 
