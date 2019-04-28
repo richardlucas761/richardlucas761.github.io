@@ -58,7 +58,7 @@ This is a new tool which is like the Visual Studio Code equivalent of SQL Server
 
 > Microservices, Orchestration, Deployment and Scale!
 
-https://github.com/simondale/
+<https://github.com/simondale/>
 
 Service fabric, c.f. Open Shift / Kubernetes.
 
@@ -112,7 +112,7 @@ Free for first 5 devices with Azure subscription. No dev talent needed, easier t
 
 > We’ll also walk through Device Twins and Azure Functions showing how to send a tweet when the room temperature drops below a certain level.
 
-https://github.com/PGallagher69/iothubs_with_raspberry_pi
+<https://github.com/PGallagher69/iothubs_with_raspberry_pi>
 
 ---
 
@@ -120,7 +120,7 @@ https://github.com/PGallagher69/iothubs_with_raspberry_pi
 
 > A quick overview of how we tackled generating large amounts of PDFs in Azure
 
-https://github.com/dantheman999301/gabc-browserless
+<https://github.com/dantheman999301/gabc-browserless>
 
 Past PDF generating solutions usually expensive or painful.
 
@@ -160,7 +160,7 @@ JSReport, cheaper option for lighter workloads.
 
 ## Azure Bootcamp 2019 Science lab
 
-https://github.com/intelequia/GAB2019ScienceLab
+<https://github.com/intelequia/GAB2019ScienceLab>
 
 ## Lab Key
 
@@ -174,6 +174,6 @@ NottsBootCamp
 
 ## Links
 
-https://global.azurebootcamp.net/
+<https://global.azurebootcamp.net/>
 
-http://www.nottsdevworkshop.co.uk/azurebootcamp/
+<http://www.nottsdevworkshop.co.uk/azurebootcamp/>
