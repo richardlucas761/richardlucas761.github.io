@@ -1,6 +1,6 @@
 # DevOps Notts - April 2020
 
-<https://www.meetup.com/DevOps-Notts/events/267477505/
+<https://www.meetup.com/DevOps-Notts/events/267477505/>
 
 This was the first DevOps Notts I had attended online and despite a few technical problems sharing the password for the Zoom meeting it was an interesting evening. I'll update this post later if I can get hold of the slides for either of the presentations.
 
