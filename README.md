@@ -1,2 +1,7 @@
-# richardlucas761.github.io
-Personal website on GitHub Pages.
+# Richard Lucas
+
+## Sites
+
+https://richardlucas.me.uk
+
+https://richardlucas761.github.io
