@@ -1,6 +1,14 @@
 # Richard Lucas
 
-## Sites
+## LinkedIn
+
+https://www.linkedin.com/in/richard-lucas-a5936437/
+
+---
+
+## This website
+
+Hosted on GitHub pages.
 
 https://richardlucas.me.uk
 
