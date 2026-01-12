@@ -4,6 +4,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/richard-lucas-a5936437/)
 
+[GitHub](https://github.com/richardlucas761)
+
+[Stack Overflow](https://stackoverflow.com/users/131787/richard-lucas)
+
 ---
 
 ## This website
