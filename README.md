@@ -1,5 +1,7 @@
 # Richard Lucas
 
+![Avatar](avatar.jpg)
+
 ## Websites
 
 [LinkedIn](https://www.linkedin.com/in/richard-lucas-a5936437/)
